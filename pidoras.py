@@ -68,7 +68,6 @@ for i in range(16):
 
 if __name__ == "__main__":
     params = sys.argv
-    params = ["", "-fh", "beers.pdrs"]
     hex = False
     show_code = False
     if len(params) < 2:
